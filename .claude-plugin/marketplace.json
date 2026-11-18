@@ -1,0 +1,12 @@
+{
+  "name": "ai-skill-hub",
+  "owner": { "name": "thepipeman" },
+  "metadata": { "description": "Plugin marketplace for AI skills" },
+  "plugins": [
+    {
+      "name": "doc-analysis",
+      "source": "./plugins/doc-analysis",
+      "description": "Analyze PRDs: ASD-STE100 rewrite with confidence levels, then a module breakdown."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "doc-analysis",
+  "version": "0.1.0",
+  "description": "Analyze PRDs: ASD-STE100 rewrite with confidence levels, then a module breakdown.",
+  "author": { "name": "thepipeman" }
+}
